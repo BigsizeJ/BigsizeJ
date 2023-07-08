@@ -28,7 +28,7 @@ I am upcoming 4th year Bachelor of Science in Computer Science student specializ
 ## Contact
 
 - Email: apacjessie@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jessie-apac-72154023a/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jessie-apac-72154023a/)
 
 Feel free to reach out to me if you have any questions or would like to connect!
 
