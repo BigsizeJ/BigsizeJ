@@ -2,7 +2,7 @@
 
 I am upcoming 4th year Bachelor of Science in Computer Science student specializing in web development. I have a passion for creating user-friendly and interactive web applications. 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=apacjessie)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apacjessie&show_icons=true)
 
 ## Skills
 
