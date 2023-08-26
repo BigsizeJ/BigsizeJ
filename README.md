@@ -2,6 +2,8 @@
 
 I am upcoming 4th year Bachelor of Science in Computer Science student specializing in web development. I have a passion for creating user-friendly and interactive web applications. 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=apacjessie)](https://git.io/streak-stats)
+
 ## Skills
 
 - Front-end Development: HTML, CSS, JavaScript, React.js, TypeScript, Tailwind css
