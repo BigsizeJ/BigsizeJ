@@ -2,8 +2,6 @@
 
 I am upcoming 4th year Bachelor of Science in Computer Science student specializing in web development. I have a passion for creating user-friendly and interactive web applications. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apacjessie&show_icons=true)
-
 ## Skills
 
 - Front-end Development: HTML, CSS, JavaScript, React.js, TypeScript, Tailwind css
@@ -13,9 +11,7 @@ I am upcoming 4th year Bachelor of Science in Computer Science student specializ
 
 ## Projects
 
-- [Project 1](link-to-project): Brief description of the project and technologies used.
-- [Project 2](link-to-project): Brief description of the project and technologies used.
-- [Project 3](link-to-project): Brief description of the project and technologies used.
+- [Project 1](https://exclsv.vercel.app): Full-stack project built using modern web technologes. The frontend is developed using Vite, Typescript, and React.js, while state management is implemented using Redux Toolkit (RTK). The backend is powered by MongoDB, Express, and Node.js, providing a robust foundation for data storage and server-side functionalities.
 
 ## Education
 
