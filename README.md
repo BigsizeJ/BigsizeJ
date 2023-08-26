@@ -11,7 +11,7 @@ I am upcoming 4th year Bachelor of Science in Computer Science student specializ
 
 ## Projects
 
-- [Project 1](https://exclsv.vercel.app): Full-stack project built using modern web technologes. The frontend is developed using Vite, Typescript, and React.js, while state management is implemented using Redux Toolkit (RTK). The backend is powered by MongoDB, Express, and Node.js, providing a robust foundation for data storage and server-side functionalities.
+- [EXCLSV](https://exclsv.vercel.app): Full-stack project built using modern web technologes. The frontend is developed using Vite, Typescript, and React.js, while state management is implemented using Redux Toolkit (RTK). The backend is powered by MongoDB, Express, and Node.js, providing a robust foundation for data storage and server-side functionalities.
 
 ## Education
 
