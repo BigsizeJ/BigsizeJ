@@ -4,10 +4,10 @@ I am upcoming 4th year Bachelor of Science in Computer Science student specializ
 
 ## Skills
 
-- Front-end Development: HTML, CSS, JavaScript, React.js, TypeScript, Tailwind css, Framer-motion, RTK
-- Back-end Development: Node.js, Express.js, Socket.io, Next.js, Python, Java, C++
+- Front-end Development: HTML, CSS, JavaScript, React.js, TypeScript, Tailwind css, Framer-motion, RTK, zod, react-hook-form
+- Back-end Development: Node.js, Express.js, Next.js, Socket.io, Next.js, Python, Java, C++
 - Databases: MongoDB, MySQL
-- Additional Technologies: Git, GitHub, NPM, Visual Studio Code, Figma, Adobe Photoshop, Vite, Webpack
+- Additional Technologies: Git, GitHub, NPM, Visual Studio Code, Figma, Adobe Photoshop, Vite, Webpack, Jira
 
 ## Projects
 
