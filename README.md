@@ -39,7 +39,7 @@ I am 4th year Bachelor of Science in Computer Science student specializing in we
 <h3>🔥 Streak Stats</h3>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=rapacjessie&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=apacjessie&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3>💻 GitHub Profile Stats</h3>
 
