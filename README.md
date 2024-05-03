@@ -54,5 +54,5 @@ I am 4th year Bachelor of Science in Computer Science student specializing in we
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apacjessie&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-![](https://komarev.com/ghpvc/?username=apacjessie)
+
 
